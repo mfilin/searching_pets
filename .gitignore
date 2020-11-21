@@ -1,3 +1,7 @@
 # created by virtualenv automatically
 venv
 .vscode
+bin
+__pycache__
+test.py
+remainnig bit (bad).py 
